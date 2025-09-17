@@ -20,7 +20,6 @@ My text- and code editor of choice is [Visual Studio Code](https://code.visualst
 I use [GIMP](https://www.gimp.org) for anything image-related and [Adobe Illustrator](https://www.adobe.com/products/illustrator) for [vector](https://en.wikipedia.org/wiki/Vector_graphics) art.  
 If you're interested in CAD and 3D-printing I use [Fusion 360](https://www.autodesk.com/products/fusion-360/overview) for designing and [UltiMaker Cura](https://ultimaker.com/software/ultimaker-cura) as my [slicer](https://en.wikipedia.org/wiki/Slicer_(3D_printing)).  
 
-## Stats for nerds
+## Stats
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olillin&langs_count=7&theme=transparent&hide_border=true) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=olillin&show=prs_merged&hide=stars&show_icons=true&theme=transparent&hide_border=true&rank_icon=github) |
-|-|-|
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=olillin&show=prs_merged&hide=stars&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&custom_title=Stats%20for%20nerds)
