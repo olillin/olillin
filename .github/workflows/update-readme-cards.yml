@@ -5,6 +5,9 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/update-readme-cards.yml'
 
 permissions:
   contents: write
@@ -20,7 +23,7 @@ jobs:
         uses: Pranesh-2005/github-readme-stats-fast-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show=prs_merged&hide=stars&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&custom_title=Stats%20for%20nerds
+          options: username=${{ github.repository_owner }}&show=prs_merged&hide=stars&show_icons=true&theme=github_dark_dimmed&rank_icon=github&custom_title=Stats%20for%20nerds
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
