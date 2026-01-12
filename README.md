@@ -30,4 +30,4 @@ My recent obsession has been with **calendars** for which I've made [a few proje
 
 ## Stats
 
-![GitHub stats](./profile/stats.svg)
+[![GitHub stats](./profile/stats.svg)](https://github.com/Pranesh-2005/github-readme-stats-fast-action)
