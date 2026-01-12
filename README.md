@@ -1,14 +1,15 @@
 # Hey, I'm Oli!
 
-I'm a Swedish student of information technology with a passion for code and understanding.
-I experiment with all sorts of bits and bobs, typically involving a healthy amount of programming.
+I'm a Swedish student who loves tinkering with code and learning new things.  
+I experiment with all sorts of bits and bobs! Which typically involves a healthy amount of programming.  
+My recent obsession has been with **calendars** for which I've made [a few projects](https://github.com/stars/olillin/lists/calendars) from websites to libraries and utilities.  
 
-## Here's some of the things I do
+## Here's some of the things I've done
 
-💻 Front-end website development using JavaScript, HTML and CSS.  
-⚡ Back-end and API:s with TypeScript and [Express](https://expressjs.com).    
-🔌 [PaperMC](https://papermc.io) plugin development in [Kotlin](https://kotlinlang.org) (prev. Java.)  
-🐧 [Ubuntu Linux](https://ubuntu.com) server management.  
+💻 Front-end website development using [NextJS](https://nextjs.org), [TypeScript](https://www.typescriptlang.org) and CSS.  
+⚡ Back-end and API:s with TypeScript and [Express](https://expressjs.com).  
+🔌 Minecraft mod and plugin development in [Kotlin](https://kotlinlang.org) (prev. Java.)  
+🐧 Linux server management. Currently [Ubuntu](https://ubuntu.com) but planning to move to a shared [NixOS](https://nixos.org) configuration with my other machines.  
 🐍 Utility and QoL [Python](https://www.python.org) and [AHK](https://www.autohotkey.com) scripts for automation of simple tasks.  
 🖨 3D-printing on my [Ender 3 Neo](https://www.creality3dofficial.com/products/ender-3-neo).  
 🎨 Graphic design in [Adobe Illustrator](https://www.adobe.com/products/illustrator).  
@@ -16,9 +17,16 @@ I experiment with all sorts of bits and bobs, typically involving a healthy amou
 
 ## Software?
 
-My text- and code editor of choice is [Visual Studio Code](https://code.visualstudio.com), but I also use [IntelliJ IDEA](https://www.jetbrains.com/idea) when programming in Kotlin or Java.  
-I use [GIMP](https://www.gimp.org) for anything image-related and [Adobe Illustrator](https://www.adobe.com/products/illustrator) for [vector](https://en.wikipedia.org/wiki/Vector_graphics) art.  
-If you're interested in CAD and 3D-printing I use [Fusion 360](https://www.autodesk.com/products/fusion-360/overview) for designing and [UltiMaker Cura](https://ultimaker.com/software/ultimaker-cura) as my [slicer](https://en.wikipedia.org/wiki/Slicer_(3D_printing)).  
+❄️ For the past few months I've been running [NixOS](https://nixos.org) and really enjoyed the experience!  
+🖊️ My usual editor is [Neovim](https://neovim.io), although my config leaves much to be desired. I occassionally use [Visual Studio Code](https://code.visualstudio.com) and [IntelliJ IDEA](https://www.jetbrains.com/idea) when programming in Kotlin or Java.  
+📂 The file explorer I use is [Yazi](https://yazi-rs.github.io) with *most* plugins installed.  
+🎨 I use [GIMP](https://www.gimp.org) for anything image-related.  
+
+## Links
+
+🌐 [Website](https://olillin.com)  
+💚 [Modrinth](https://modrinth.com/user/olillin)  
+📺 [YouTube](https://www.youtube.com/@olillin)  
 
 ## Stats
 
