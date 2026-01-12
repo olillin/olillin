@@ -9,11 +9,11 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Stats for nerds, Rank: B+</title>
-        <desc id="descId">Total Commits in 2026 : 615, Total PRs: 128, Total PRs Merged: 120, Total Issues: 162, Contributed to (last year): 10</desc>
+        <desc id="descId">Total Commits in 2026 : 618, Total PRs: 128, Total PRs Merged: 120, Total Issues: 162, Contributed to (last year): 10</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #006AFF;
+            fill: #539bf5;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -22,7 +22,7 @@
           }
           
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #417E87;
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #ADBAC7;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -33,7 +33,7 @@
       animation: fadeInAnimation 0.3s ease-in-out forwards;
     }
     .rank-text {
-      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #417E87;
+      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ADBAC7;
       animation: scaleInAnimation 0.3s ease-in-out forwards;
     }
     .rank-percentile-header {
@@ -46,18 +46,18 @@
     .not_bold { font-weight: 400 }
     .bold { font-weight: 700 }
     .icon {
-      fill: #0579C3;
+      fill: #539bf5;
       display: block;
     }
 
     .rank-circle-rim {
-      stroke: #006AFF;
+      stroke: #539bf5;
       fill: none;
       stroke-width: 6;
       opacity: 0.2;
     }
     .rank-circle {
-      stroke: #006AFF;
+      stroke: #539bf5;
       stroke-dasharray: 250;
       fill: none;
       stroke-width: 6;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 95.66542408535568;
+        stroke-dashoffset: 95.60236370309487;
       }
     }
   
@@ -109,10 +109,10 @@
           y="0.5"
           rx="4.5"
           height="99%"
-          stroke="#e4e2e2"
+          stroke="#373E47"
           width="466"
-          fill="#ffffff00"
-          stroke-opacity="0"
+          fill="#24292F"
+          stroke-opacity="1"
         />
 
         
@@ -162,7 +162,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >615</text>
+      >618</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
