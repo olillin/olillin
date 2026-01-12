@@ -30,4 +30,4 @@ My recent obsession has been with **calendars** for which I've made [a few proje
 
 ## Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=olillin&show=prs_merged&hide=stars&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&custom_title=Stats%20for%20nerds)
+![GitHub stats](./profile/stats.svg)
