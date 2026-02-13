@@ -26,7 +26,9 @@ My recent obsession has been with **calendars** for which I've made [a few proje
 
 🌐 [Website](https://olillin.com)  
 💚 [Modrinth](https://modrinth.com/user/olillin)  
-📺 [YouTube](https://www.youtube.com/@olillin)  
+🧩 [Repology](https://repology.org/maintainer/oli%40olillin.com)  
+📦 [npm](https://www.npmjs.com/~olillin)
+🐍 [PyPi](https://pypi.org/user/OliTheHoodieBoi)
 
 ## Stats
 
