@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Stats for nerds, Rank: A-</title>
-        <desc id="descId">Total Commits in 2026 : 768, Total PRs: 147, Total PRs Merged: 140, Total Issues: 176, Contributed to (last year): 17</desc>
+        <desc id="descId">Total Commits in 2026 : 767, Total PRs: 147, Total PRs Merged: 140, Total Issues: 176, Contributed to (last year): 17</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 81.32899446912828;
+        stroke-dashoffset: 81.34282414858222;
       }
     }
   
@@ -162,7 +162,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >768</text>
+      >767</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
