@@ -17,10 +17,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
       - name: Generate stats card
-        uses: Pranesh-2005/github-readme-stats-fast-action@v1
+        uses: Pranesh-2005/github-readme-stats-fast-action@v1.3
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show=prs_merged&hide=stars&show_icons=true&theme=github_dark_dimmed&rank_icon=github&custom_title=Stats%20for%20nerds
